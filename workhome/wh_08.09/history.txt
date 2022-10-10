@@ -1,0 +1,13 @@
+   0 cd /home && mkdir angelika
+   1 cd angelika
+   2 nano sleeper.sh
+   3 bash sleeper.sh
+   4 nano sleeper.sh
+   5 bash sleeper.sh
+   6 cat os.txt
+   7 nano slepper.sh
+   8 rm -r slepper.sh
+   9 nano sleeper.sh
+  10 bash sleeper.sh
+  11 ls
+  12 history >/tmp/history.txt
